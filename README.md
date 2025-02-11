@@ -1,1 +1,1 @@
-# InvestmentSimulator
+# Investment Simulator
