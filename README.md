@@ -1,6 +1,6 @@
 # Investment Simulator
 
-![image](https://github.com/user-attachments/assets/3b01d002-e329-49e2-8a6f-0a6c2c7706ab)
+![image](https://github.com/user-attachments/assets/2e6b567d-4ad4-4a5a-84a0-cd45005a4fa6)
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
